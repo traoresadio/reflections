@@ -1,0 +1,10 @@
+
+1.What happens when you initialize a repository? Why do you need to do it?
+	Whe you initiallize a repository it make a git repository, you do it 
+	with the command "git init". 
+
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area is a temporary area that belong to git where you put your files before the get to the git repository.
+	you can classify them there and make the sort of group commit you would like.

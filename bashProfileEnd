@@ -1,0 +1,8 @@
+git config --global core.editor "'/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl' -n -w"
+git config --global push.default upstream
+git config --global merge.conflictstyle diff3
+
+
+
+
+/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin
